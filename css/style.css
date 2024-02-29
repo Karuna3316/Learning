@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    font-family: poppins;
+}
+body{
+    background-color: #f6f6f6;
+    width: auto;
+}
+.bg-images{
+    background-image:url(../image/background-images.png);
+    height:480px;
+    background-size:cover;
+    display:block;
+    background-repeat: no-repeat;
+}
+.login{
+      text-decoration:none;
+      color:#fff;
+      opacity: 1;
+      }
+    .acc-create-border{
+        text-decoration:none;
+        color:#fff;
+        opacity: 1;
+        border: 1px solid #FFFFFF;
+        border-radius: 3px;
+        }
+    .login:hover,acc-create:hover{
+       color:#fff;
+      }	
+.logo{
+    display: inline;
+    color:#EB2929;
+    border-radius: 50%;
+    background: #FFFFFF;
+    border: 1px solid #707070;
+    opacity: 1;
+    text-align: left;
+    font-size:70px;
+    font-weight:600;
+    letter-spacing: 0px;
+    
+}													
+.restaurant-title{
+    font-size:36px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.location-selector{
+    display: inline;
+    background-color: white;
+}
